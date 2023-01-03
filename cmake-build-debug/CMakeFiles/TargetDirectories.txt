@@ -1,0 +1,3 @@
+/Users/jerdos-s/prog/math_analyse/cmake-build-debug/CMakeFiles/math_analyse.dir
+/Users/jerdos-s/prog/math_analyse/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jerdos-s/prog/math_analyse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
